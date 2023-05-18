@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="kubernettes-project-1"
